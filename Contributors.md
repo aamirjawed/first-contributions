@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+
 - [Hydrotho](https://github.com/hydrotho)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
 - [Ashutosh Kumar](https://github.com/incognion)
@@ -26,6 +27,7 @@
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Mayur Vora](https://github.com/Mayur-vora)
 nowy wpis
+- [Aamir Jawed] (https://github.com/aamirjawed)
 - [Wayne Miles] (https://github.com/WayneMilesIII)
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
